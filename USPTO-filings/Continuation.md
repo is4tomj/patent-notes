@@ -29,5 +29,10 @@ This process can be a little confusing. Especially if you decide to change the t
 - WebADS
 - Fees
 - Declaration(s)
+- 3.73(c) if needed (see [373-c-statement](373-c-statement.md)).
 
 ### Followup documents
+
+- Original specification
+
+- Followup amendments to the claims
