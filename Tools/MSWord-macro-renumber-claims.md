@@ -1,6 +1,13 @@
 Renumber Claims in MS Word
 ===========================
 
+## Usage
+
+1.  Select the claims you want to renumber, and run the new macro – ChangeNumbers.
+2.  Input the lowest claim number to modify.
+3.  Input the highest claim number to modify.
+4.  Input the amount (as a positive or negative integer) that you want to change each number within the selected text that is also within the inputed range.
+
 ## Install
 
 In the Developer tab, open Visual Basic. Create a new macro with the following code:
@@ -99,11 +106,3 @@ Function ConvertToInteger(v1 As Variant) As Integer
      End
 End Function
 ```
-
-## Usage
-
-1.  Select the claims you want to renumber, and run the new macro – ChangeNumbers.
-2.  Input the lowest claim number to modify.
-3.  Input the highest claim number to modify.
-4.  Input the amount (as a positive or negative integer) that you want to change each number within the selected text that is also within the inputed range.
-
